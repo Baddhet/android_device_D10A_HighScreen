@@ -267,10 +267,6 @@ PRODUCT_PACKAGES += \
 PRODUCT_PROPERTY_OVERRIDES += \
     persist.timed.enable=true
 
-# STK
-PRODUCT_PACKAGES += \
-    Stk
-
 # Torch
 PRODUCT_PACKAGES += \
     Torch  
